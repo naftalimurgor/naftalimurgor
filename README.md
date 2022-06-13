@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 Check out my website [naftalimurgor.com](https://naftalimurgor.com)
 
+Want to learn/improve JavaScript skills? Feel free to preorder a copy of [Modern JavaScript Primer](https://naftalimurgor.gumroad.com/l/modern-javascript-primer)
+
+
+
 🐦 [Follow me on Twitter!](https://twitter.com/nkmurgor)
