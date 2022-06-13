@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Check out my website [naftalimurgor.com](https://naftalimurgor.com)
+
+🐦 [Follow me on Twitter!](https://twitter.com/nkmurgor)
