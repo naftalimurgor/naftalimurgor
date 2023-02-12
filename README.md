@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Check out my website [naftalimurgor.com](https://naftalimurgor.com)
 
-Learning JavaScript? Join my newsletter to join the pre-release wait list [here](https://naftalimurgor.com/newsletter)
+Learning JavaScript? Join my newsletter to join the A Modern JavaScript Primer Book pre-release wait list [here](https://naftalimurgor.com/newsletter)
 
 
 🐦 [Follow me on Twitter!](https://twitter.com/nkmurgor)
