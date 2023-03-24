@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Check out my website [naftalimurgor.com](https://naftalimurgor.com)
+Check out my website [https://naftalimurgor.com](https://naftalimurgor.com)
 
 Learning JavaScript? Join my newsletter to join the A Modern JavaScript Primer Book pre-release wait list [here](https://naftalimurgor.com/newsletter)
 
