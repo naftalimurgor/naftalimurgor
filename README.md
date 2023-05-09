@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Check out my little website [https://naftalimurgor.com](https://naftalimurgor.com)
 
-Learning JavaScript? Join my newsletter to join the A Modern JavaScript Primer Book pre-release wait list [here](https://naftalimurgor.com/newsletter)
+Learning Front-end web development? Join my newsletter to join the A Modern JavaScript Primer Book pre-release wait list [here](https://naftalimurgor.com/newsletter) to prep you for learning most popular Front-end technologies.
 
 
 🐦 → [Follow me on Twitter!](https://twitter.com/nkmurgor)
