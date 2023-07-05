@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi nerd! 👋
 
 <!--
 **naftalimurgor/naftalimurgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Check out my little website [https://naftalimurgor.com](https://naftalimurgor.com)
+Welcome,
 
-Are you getting into Front-end web development? Join my newsletter to join the A Modern JavaScript Primer Book pre-release wait list [here](https://naftalimurgor.com/newsletter) to prep you for learning and building on most modern Front-end technologies.
+Check out my little website 🔗 → [https://naftalimurgor.com](https://naftalimurgor.com)
 
+Subscribe to my weekly newsletter 🗞️ →  [https://naftalimurgor.com/newsletter](https://naftalimurgor.com/newsletter)
 
 🐦 → [Follow me on Twitter!](https://twitter.com/nkmurgor)
