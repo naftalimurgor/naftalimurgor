@@ -6,7 +6,7 @@ Check out my little website 🔗 → [https://naftalimurgor.com](https://naftali
 
 Subscribe to my weekly newsletter 🗞️ →  [https://naftalimurgor.com/newsletter](https://naftalimurgor.com/newsletter)
 
-Donate: Bitcoin (`1KYdDWLDaTvz9SAmWhZjFFit9PTpCBxUM2`)
+Donate: Bitcoin <img src="https://neovim.io/images/icons/bitcoin.png" width="20" height="20"/> (`1KYdDWLDaTvz9SAmWhZjFFit9PTpCBxUM2`)
 
 🐦 → [Follow me on Twitter!](https://twitter.com/nkmurgor)
 
