@@ -1,6 +1,6 @@
 ### Hi nerd! 👋
 
-Welcome,
+Welcome, I am a gamer, a software engineer and a all-rounded guy! I'm also running a tiny blog on interesting topics about software engineering. 
 
 Check out my little website 🔗 → [https://naftalimurgor.com](https://naftalimurgor.com)
 
