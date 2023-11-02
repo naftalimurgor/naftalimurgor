@@ -1,5 +1,6 @@
-### Hi friend,
 
+
+<img src="https://github.com/naftalimurgor/naftalimurgor/blob/main/bender.gif?raw=true"  style="object-fit: scale-up"/>
 Welcome, I am a gamer, a software engineer and an all-rounded guy! I'm also running a tiny blog on interesting topics about software engineering. 
 
 1. Check out my little website 🔗 → [https://naftalimurgor.com](https://naftalimurgor.com)
