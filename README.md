@@ -7,5 +7,4 @@ Welcome, I am a gamer, a software engineer and an all-rounded guy! I'm also runn
 
 1. Subscribe to my weekly software Engineering newsletter 🗞️ →  [https://naftalimurgor.com/newsletter](https://naftalimurgor.com/newsletter)
 
-1. Support this initiative 🇵🇸  →  [https://naftalimurgor.com/support-palestine-war-refugees/](https://naftalimurgor.com/support-palestine-war-refugees/)
 1. Follow on Twitter 🐦 → [Follow me on Twitter!](https://twitter.com/nkmurgor)
