@@ -2,6 +2,8 @@
 
 Hi 👋,
 
+I am Naftali Murgor, a software developer from Kenya, while here:
+
 1. Check out my little website 🔗 → [https://naftalimurgor.com](https://naftalimurgor.com)
 
 1. Subscribe to my weekly Software Engineering newsletter 🗞️ →  [https://naftalimurgor.com/newsletter](https://naftalimurgor.com/newsletter)
