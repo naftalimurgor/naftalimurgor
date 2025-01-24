@@ -1,7 +1,7 @@
 
 
 Hi 👋,
-
+1. Indie Software Developer & postgrad student (Msc Information Technology) at Kabarak University, Nakuru, Kenya
 1. Check out my little website 🔗 → [https://naftalimurgor.com](https://naftalimurgor.com)
 
 1. Subscribe to my weekly Software Engineering newsletter 🗞️ →  [https://naftalimurgor.com/newsletter](https://naftalimurgor.com/newsletter)
