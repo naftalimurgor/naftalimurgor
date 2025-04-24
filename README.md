@@ -1,10 +1,17 @@
+# 👋 Hi, I’m Naftali Murgor
 
+Indie **Blockchain Developer** & MSc IT student at **Kabarak University**, Nakuru, Kenya.
 
-Hi 👋,
-1. Indie Software Developer & postgrad student (Msc Information Technology) at Kabarak University, Nakuru, Kenya
-1. Check out my little website 🔗 → [https://naftalimurgor.com](https://naftalimurgor.com)
+Currently working [**Sevault Wallet**](https://sevaultwallet.com) a multi-chain crypto wallet (ETH, BNB, Bitgesell).
 
-1. Subscribe to my weekly Software Engineering newsletter 🗞️ →  [https://naftalimurgor.com/newsletter](https://naftalimurgor.com/newsletter)
+Find me on,
 
-1. Follow on <b>X</b> → [Follow me on X!](https://twitter.com/nkmurgor)
-2. Building https://sevaultwallet.com open Source Wallet, Follow updates 👉 https://discord.gg/hSr7nAba 
+- 🌐 Website → [naftalimurgor.com](https://naftalimurgor.com)
+- 🗞️ Newsletter → [naftalimurgor.com/newsletter](https://naftalimurgor.com/newsletter)
+- 🐦 X / Twitter → [@nkmurgor](https://twitter.com/nkmurgor)
+- 💬 Discord → [Sevault Wallet Updates](https://discord.gg/hSr7nAba)
+
+## 🛠️ Stack
+
+Solidity · React Native · ethers.js · TypeScript · Hardhat · Web3.js · Infura · Docker
+
