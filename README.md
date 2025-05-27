@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Naftali Murgor
 
-Indie **Blockchain Developer** & MSc IT student at **Kabarak University**, Nakuru, Kenya.
-
 Currently working [**Sevault Wallet**](https://sevaultwallet.com) a multi-chain crypto wallet (ETH, BNB, Bitgesell).
 
 Find me on,
