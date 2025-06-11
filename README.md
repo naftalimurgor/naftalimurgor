@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Naftali Murgor
 
-Currently working [**Sevault Wallet**](https://sevaultwallet.com) a multi-chain crypto wallet (ETH, BNB, Bitgesell).
+Currently working on [**Sevault Wallet**](https://sevaultwallet.com) a multi-chain crypto wallet (ETH, BNB, Bitgesell).
 
 Find me on,
 
