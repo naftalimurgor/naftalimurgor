@@ -1,5 +1,6 @@
 # Software Engineer | Indie Creator | Distributed Systems | Systems Design | Project Lead
-I'm software Engineer working with Distributed Ledger Technology, Blockchain stack. I strive to keep skills sharp in Go, C++, Docker and blockchain technologies. I work with disruptive blockchain projects building
+I'm software Engineer working with Distributed Ledger Technology, Blockchain stack. I strive to keep skills sharp in Go, C++, Docker and blockchain technologies. I work with disruptive blockchain projects building:
+
 1. Dashboards
 2. Wallets
 3. Blockchain Explorers
