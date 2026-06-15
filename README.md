@@ -23,4 +23,4 @@ Solidity · Rust · Go · C++ · React Native · TypeScript · ethers.js · Hard
 
 ## 📫 Contact
 
-**Email:** [murgornaftali@gmail.com](mailto:murgornaftali@gmail.com)
+**Available for hire, short-term and contractual basis: Email:** [murgornaftali@gmail.com](mailto:murgornaftali@gmail.com)
