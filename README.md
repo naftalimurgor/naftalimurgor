@@ -1,26 +1,31 @@
-# Software Developer
+# Blockchain Infrastructure Engineer
 
-I'm a Software Developer working on Blockchain and DeFi solutions. I strive to keep my skills sharp in Go, C++, Docker, Rust, and Solidity while contributing to disruptive blockchain projects.
+I build and maintain the infrastructure that powers blockchain ecosystems—from RPC nodes and explorers to wallets, SDKs, and developer tooling.
 
-I build and maintain:
+## What I build
 
-1. Dashboards  
-2. Wallets  
-3. Blockchain Explorers  
-4. Developer Tooling  
-5. Smart Contract Security Audits  
+- Blockchain Explorers
+- RPC Infrastructure
+- Wallets
+- TypeScript SDKs
+- Developer Tooling
+- Dashboards & Analytics
+- Smart Contract Security Audits
 
-## 🚀 Featured Projects
+## Featured Projects
+## Featured Projects
 
-- 🌐 [explorer.bitgesell.dev](https://explorer.bitgesell.dev) — Blockchain Explorer  
-- 📊 [mempool.bitgesell.dev](https://mempool.bitgesell.dev) — Mempool Dashboard & Analytics  
-- 🔐 [sevault.info](https://sevault.info) — Secure Crypto Wallet  
-- 🔄 [swap.exglos.com](https://swap.exglos.com) — Decentralized Token Swap Platform  
+- 🌐 **[explorer.bitgesell.dev](https://explorer.bitgesell.dev)** — Blockchain Explorer
+- 📊 **[mempool.bitgesell.dev](https://mempool.bitgesell.dev)** — Mempool Dashboard & Analytics
+- 🔐 **[sevault.info](https://sevault.info)** — Secure Crypto Wallet
+- 🔄 **[swap.exglos.com](https://swap.exglos.com)** — Decentralized Token Swap Platform
 
-## 🛠️ Tech Stack
+## Tech
 
-Solidity · Rust · Go · C++ · React Native · TypeScript · ethers.js · Hardhat · Web3.js · Infura · Docker
+Go · Rust · C++ · TypeScript · Solidity · Docker · React Native · ethers.js · Hardhat · Web3.js
 
-## 📫 Contact
+## Contact
 
-**Available for hire, short-term and contractual basis: Email:** [murgornaftali@gmail.com](mailto:murgornaftali@gmail.com)
+Available for contract and long-term infrastructure work.
+
+📫 **murgornaftali@gmail.com**
