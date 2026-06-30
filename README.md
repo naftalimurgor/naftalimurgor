@@ -19,6 +19,10 @@ I build and maintain the infrastructure that powers blockchain ecosystems—from
 - 📊 **[mempool.bitgesell.dev](https://mempool.bitgesell.dev)** — Mempool Dashboard & Analytics
 - 🔐 **[sevault.info](https://sevault.info)** — Secure Crypto Wallet
 - 🔄 **[swap.exglos.com](https://swap.exglos.com)** — Decentralized Token Swap Platform
+- 🔄 **[bitgesell.dev](https://bitgesell.dev)** — Bitgesell Blockchain project official website (mirror)
+- 🔄 **[rpc.bitgesell.dev](https://rpc.bitgesell.dev)** — RPC Node for Bitgesell mainnet
+- 🔄 **[bglstream.bitgesell.dev](https://bglstream.bitgesell.dev)** — Lightweight Bitgesell Explorer with recent transactions
+
 
 ## Tech
 
