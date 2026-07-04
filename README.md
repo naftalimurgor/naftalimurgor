@@ -7,7 +7,7 @@ I build and maintain the infrastructure that powers blockchain ecosystems—from
 - Blockchain Explorers
 - RPC Infrastructure
 - Wallets
-- TypeScript SDKs
+- Blockchain SDKs - Node, Web
 - Developer Tooling
 - Dashboards & Analytics
 - Smart Contract Security Audits
