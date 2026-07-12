@@ -32,4 +32,4 @@ Go · Rust · C++ · TypeScript · Solidity · Docker · React Native · ethers.
 
 Available for contract and long-term infrastructure work.
 
-📫 **murgornaftali@gmail.com**
+📫 **nmurgor10(at)gmail.com**
