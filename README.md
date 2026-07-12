@@ -13,7 +13,6 @@ I build and maintain the infrastructure that powers blockchain ecosystems—from
 - Smart Contract Security Audits
 
 ## Featured Projects
-## Featured Projects
 
 - 🌐 **[explorer.bitgesell.dev](https://explorer.bitgesell.dev)** — Blockchain Explorer
 - 📊 **[mempool.bitgesell.dev](https://mempool.bitgesell.dev)** — Mempool Dashboard & Analytics
