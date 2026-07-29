@@ -1,4 +1,4 @@
-# Blockchain Infrastructure Engineer
+# Blockchain Infrastructure/Product Engineer
 
 I build and maintain the infrastructure that powers blockchain ecosystems—from RPC nodes and explorers to wallets, SDKs, and developer tooling.
 
