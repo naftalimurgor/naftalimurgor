@@ -1,4 +1,4 @@
-# Blockchain Infrastructure/Product Engineer/Software Developer
+# Software Developer 
 
 Hello,
 
@@ -6,10 +6,10 @@ I am Naftali Murgor from Kenya. I build and maintain the infrastructure that pow
 
 ## What I build
 
-- Blockchain Explorers
+- Explorers
 - RPC Infrastructure - Hosting, deployments and monitoring
 - Wallets - Custodial, Non-custodial wallets
-- Blockchain SDKs - Node, Web, React Native
+- SDKs - Node, Web, React Native
 - Developer Tooling
 - Dashboards & Analytics
 - Smart Contract Security Audits - Solidity
