@@ -1,4 +1,4 @@
-# Software Developer / Engineer | Building on the Open web
+# Software Developer / Engineer | Building on the Open Internet
 
 Hello,
 
