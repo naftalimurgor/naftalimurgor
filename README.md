@@ -1,6 +1,6 @@
 # Software Developer / Engineer | Building on the Open Internet
 
-Hello,
+Hello 👋,
 
 I am Naftali Murgor from Kenya. I build and maintain the infrastructure that powers blockchain ecosystems: from RPC nodes and explorers to wallets, SDKs, Developer Tooling and Documentation. I am also flexible working with teams remotely (together with my agents) in solving technical problems, creating new feature, working on new projects and delivering value to the business/clients. 
 
