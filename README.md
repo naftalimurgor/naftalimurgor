@@ -2,7 +2,7 @@
 
 Hello,
 
-I am Naftali Murgor from Kenya. I build and maintain the infrastructure that powers blockchain ecosystems: from RPC nodes and explorers to wallets, SDKs, and Developer tooling and Documentations. I am also flexible working with teams remotely (together with my agents) in solving technical problems, creating new features and working on new projects and delivering value to the business/clients. 
+I am Naftali Murgor from Kenya. I build and maintain the infrastructure that powers blockchain ecosystems: from RPC nodes and explorers to wallets, SDKs, Developer Tooling and Documentation. I am also flexible working with teams remotely (together with my agents) in solving technical problems, creating new feature, working on new projects and delivering value to the business/clients. 
 
 ## What I build
 
